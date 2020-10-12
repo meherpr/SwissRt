@@ -1,0 +1,6 @@
+Copyright (c) 2020 Meher K Prakash
+
+Cite as: C. K. Sruthi, Malay Ranjan Biswal, Brijesh Saraswat, Himanshu Joshi, and Meher K. Prakash, How Polices on Restaurants, Bars, Nightclubs, Masks, Schools, and Travel Influenced Swiss COVID-19 Reproduction Ratios (2020)
+
+Subject to Creative Commons License CC By-NC-ND-4.0. More documentation available at:
+https://creativecommons.org/licenses/by-nc-nd/4.0/
