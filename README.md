@@ -15,6 +15,6 @@ randsearchoptparams.py: Script for optimizing the hyper-parameters to be used in
 
 shapanalysis.py: Script for performing the SHAP analysis for identifying the individual policy contributions to the Transmission rates (or reproduction rates, if multiplied by 14, as mentioned above)
 
-Rt_contribution_CSV: Contains all the processed data  
+Rt_contribution_CSV: Contains all the processed data. The categoical value of all the policies are described in the manuscript.  
 - combine_allVars: Weekly policy data for all the 26 cantons and their corresponding Rt contribution  
 - combine_delta_minmax: Change in the Rt contribution with respect to the 20th week
