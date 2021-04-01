@@ -17,9 +17,5 @@ shapanalysis.py: Script for performing the SHAP analysis for identifying the ind
 
 Rt_contribution_CSV: Contains all the processed data
 
-    combine_allVars: Weekly policy data for all the 26 cantons and their corresponding Rt contribution
-    combine_delta_minmax: Change in the Rt contribution with respect to the 20th week
-
-
-
-
+combine_allVars: Weekly policy data for all the 26 cantons and their corresponding Rt contribution 
+combine_delta_minmax: Change in the Rt contribution with respect to the 20th week
